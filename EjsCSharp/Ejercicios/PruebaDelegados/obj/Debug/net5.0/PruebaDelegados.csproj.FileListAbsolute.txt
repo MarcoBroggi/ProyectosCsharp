@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\PruebaDelegados.exe
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\PruebaDelegados.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\PruebaDelegados.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\PruebaDelegados.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\PruebaDelegados.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\ref\PruebaDelegados.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\bin\Debug\net5.0\PruebaDelegados.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\ref\PruebaDelegados.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaDelegados\obj\Debug\net5.0\PruebaDelegados.genruntimeconfig.cache

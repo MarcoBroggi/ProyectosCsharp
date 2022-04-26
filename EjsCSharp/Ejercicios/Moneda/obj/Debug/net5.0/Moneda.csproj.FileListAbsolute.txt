@@ -1,0 +1,12 @@
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\bin\Debug\net5.0\Moneda.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\bin\Debug\net5.0\Moneda.dll
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\bin\Debug\net5.0\ref\Moneda.dll
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\bin\Debug\net5.0\Moneda.pdb
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.dll
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\ref\Moneda.dll
+C:\Users\Brogg\source\repos\Ejercicios\Moneda\obj\Debug\net5.0\Moneda.pdb

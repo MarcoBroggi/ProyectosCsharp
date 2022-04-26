@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej56Archivos/1.0.0": {
+        "dependencies": {
+          "BibliotecaArchivosTexto": "1.0.0"
+        },
+        "runtime": {
+          "Ej56Archivos.dll": {}
+        }
+      },
+      "BibliotecaArchivosTexto/1.0.0": {
+        "runtime": {
+          "BibliotecaArchivosTexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej56Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaArchivosTexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

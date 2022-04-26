@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\Ej2.exe
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\Ej2.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\Ej2.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\Ej2.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\Ej2.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\ref\Ej2.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\bin\Debug\net5.0\Ej2.pdb
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\ref\Ej2.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.pdb
+C:\Users\Brogg\source\repos\Ejercicios\Ej2\obj\Debug\net5.0\Ej2.genruntimeconfig.cache

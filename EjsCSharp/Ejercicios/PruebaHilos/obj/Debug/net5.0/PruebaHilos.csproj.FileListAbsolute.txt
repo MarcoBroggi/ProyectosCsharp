@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\PruebaHilos.exe
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\PruebaHilos.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\PruebaHilos.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\PruebaHilos.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\PruebaHilos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\ref\PruebaHilos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\bin\Debug\net5.0\PruebaHilos.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\ref\PruebaHilos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.genruntimeconfig.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaHilos\obj\Debug\net5.0\PruebaHilos.csproj.AssemblyReference.cache

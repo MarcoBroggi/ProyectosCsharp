@@ -1,0 +1,12 @@
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\bin\Debug\net5.0\BibliotecaArchivosTexto.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\bin\Debug\net5.0\BibliotecaArchivosTexto.dll
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\bin\Debug\net5.0\ref\BibliotecaArchivosTexto.dll
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\bin\Debug\net5.0\BibliotecaArchivosTexto.pdb
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.dll
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\ref\BibliotecaArchivosTexto.dll
+C:\Users\Brogg\source\repos\Ejercicios\BibliotecaArchivosTexto\obj\Debug\net5.0\BibliotecaArchivosTexto.pdb

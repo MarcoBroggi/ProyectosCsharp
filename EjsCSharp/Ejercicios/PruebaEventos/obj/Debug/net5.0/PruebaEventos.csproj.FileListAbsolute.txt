@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\PruebaEventos.exe
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\PruebaEventos.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\PruebaEventos.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\PruebaEventos.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\PruebaEventos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\ref\PruebaEventos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\bin\Debug\net5.0\PruebaEventos.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\ref\PruebaEventos.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaEventos\obj\Debug\net5.0\PruebaEventos.genruntimeconfig.cache

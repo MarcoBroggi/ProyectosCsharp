@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormMoneda/1.0.0": {
+        "dependencies": {
+          "Moneda": "1.0.0"
+        },
+        "runtime": {
+          "FormMoneda.dll": {}
+        }
+      },
+      "Moneda/1.0.0": {
+        "runtime": {
+          "Moneda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormMoneda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Moneda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

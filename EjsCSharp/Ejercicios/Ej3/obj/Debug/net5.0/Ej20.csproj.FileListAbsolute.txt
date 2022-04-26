@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\Ej20.exe
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\Ej20.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\Ej20.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\Ej20.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\Ej20.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\ref\Ej20.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\bin\Debug\net5.0\Ej20.pdb
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\ref\Ej20.dll
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.pdb
+C:\Users\Brogg\source\repos\Ejercicios\Ej3\obj\Debug\net5.0\Ej20.genruntimeconfig.cache

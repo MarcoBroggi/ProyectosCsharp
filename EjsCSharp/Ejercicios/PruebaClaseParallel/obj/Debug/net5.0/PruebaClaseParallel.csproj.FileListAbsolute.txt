@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\PruebaClaseParallel.exe
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\PruebaClaseParallel.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\PruebaClaseParallel.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\PruebaClaseParallel.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\PruebaClaseParallel.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\ref\PruebaClaseParallel.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\bin\Debug\net5.0\PruebaClaseParallel.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\ref\PruebaClaseParallel.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaClaseParallel\obj\Debug\net5.0\PruebaClaseParallel.genruntimeconfig.cache

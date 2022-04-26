@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaMoneda/1.0.0": {
+        "dependencies": {
+          "Moneda": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaMoneda.dll": {}
+        }
+      },
+      "Moneda/1.0.0": {
+        "runtime": {
+          "Moneda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaMoneda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Moneda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

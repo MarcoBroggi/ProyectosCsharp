@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\PruebaTask.exe
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\PruebaTask.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\PruebaTask.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\PruebaTask.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\PruebaTask.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\ref\PruebaTask.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\bin\Debug\net5.0\PruebaTask.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\ref\PruebaTask.dll
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.pdb
+C:\Users\Brogg\source\repos\Ejercicios\PruebaTask\obj\Debug\net5.0\PruebaTask.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\bin\Debug\net5.0\PruebaSql.deps.json
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\bin\Debug\net5.0\PruebaSql.dll
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\bin\Debug\net5.0\ref\PruebaSql.dll
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\bin\Debug\net5.0\PruebaSql.pdb
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.dll
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\ref\PruebaSql.dll
+C:\Users\Brogg\source\repos\PruebaSql\PruebaSql\obj\Debug\net5.0\PruebaSql.pdb

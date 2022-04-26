@@ -1,0 +1,4 @@
+C:\Users\Brogg\source\repos\EjsCSharp\Ejercicios\Ej50Interfaces\obj\Debug\net5.0\Ej50Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\EjsCSharp\Ejercicios\Ej50Interfaces\obj\Debug\net5.0\Ej50Interfaces.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\EjsCSharp\Ejercicios\Ej50Interfaces\obj\Debug\net5.0\Ej50Interfaces.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\EjsCSharp\Ejercicios\Ej50Interfaces\obj\Debug\net5.0\Ej50Interfaces.csproj.CoreCompileInputs.cache

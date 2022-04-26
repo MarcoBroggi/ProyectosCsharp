@@ -1,0 +1,16 @@
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\EjMetodosDeExtension.exe
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\EjMetodosDeExtension.deps.json
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\EjMetodosDeExtension.runtimeconfig.json
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\EjMetodosDeExtension.runtimeconfig.dev.json
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\EjMetodosDeExtension.dll
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\ref\EjMetodosDeExtension.dll
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\bin\Debug\net5.0\EjMetodosDeExtension.pdb
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.csproj.AssemblyReference.cache
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.AssemblyInfoInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.AssemblyInfo.cs
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.csproj.CoreCompileInputs.cache
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.dll
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\ref\EjMetodosDeExtension.dll
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.pdb
+C:\Users\Brogg\source\repos\Ejercicios\EjMetodosDeExtension\obj\Debug\net5.0\EjMetodosDeExtension.genruntimeconfig.cache
